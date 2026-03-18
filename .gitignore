@@ -1,5 +1,4 @@
 .DS_Store
-.env
 build
 node_modules
 
@@ -14,3 +13,4 @@ zed-extension
 # Directories used by the Zed Extension CLI.
 /scratch
 /output
+config.bat
